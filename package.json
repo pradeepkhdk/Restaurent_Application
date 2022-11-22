@@ -2,6 +2,7 @@
   "name": "restaurent-app",
   "version": "0.0.2",
   "scripts": {
+    "install": "npm install my-library-angular",
     "ng": "ng",
     "start": "ng serve",
     "build": "ng build",
