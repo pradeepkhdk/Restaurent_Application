@@ -2,7 +2,7 @@
   "name": "restaurent-app",
   "version": "0.0.2",
   "scripts": {
-    "common-lib": "npm install my-library-angular@0.0.6 test-library@0.0.4",
+    "common-lib": "npm install my-library-angular@0.0.5 test-library@0.0.2",
     "ng": "ng",
     "start": "ng serve",
     "build": "ng build",
